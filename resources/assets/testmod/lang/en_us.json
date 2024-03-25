@@ -1,0 +1,17 @@
+{
+  "item.testmod.amethyst": "Janite",
+  "block.testmod.amethyst_ore": "Janite Ore",
+  "itemGroup.testModTab": "Janite Mod",
+  "item.testmod.amethyst_sword": "Janite Sword",
+  "item.testmod.amethyst_axe": "Janite Axe",
+  "item.testmod.amethyst_pickaxe": "Janite Pickaxe",
+  "item.testmod.amethyst_hoe": "Janite Hoe",
+  "item.testmod.amethyst_shovel": "Janite Shovel",
+  "item.testmod.amethyst_helmet": "Janite Helmet",
+  "item.testmod.amethyst_chestplate": "Janite Chestplate",
+  "item.testmod.amethyst_leggings": "Janite Leggings",
+  "item.testmod.amethyst_boots": "Janite Boots",
+  "item.testmod.amethyst_hammer": "Janite Hammer",
+  "block.testmod.bellium": "Bellium",
+  "item.testmod.bellisword": "BelliSword"
+}
